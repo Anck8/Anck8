@@ -6,14 +6,12 @@
     style="max-width: 100%;" 
     height="32">
 </a>
-
+<!--
 <h2>
   Developing with:
 </h2>
-
 <p dir="auto"></p>
 <p dir="auto"><strong>Application and Data</strong></p>
-
 <div data-view-component="true" class="Layout-main">      
   <div 
     class="UnderlineNav user-profile-nav d-block d-md-none position-sticky top-0 pl-3 ml-n3 mr-n3 pr-3 color-bg-default" 
@@ -52,11 +50,8 @@
       </a>
     </code>
   </div>
-
   <p dir="auto"></p>
-  
   <p dir="auto"><strong>DevOps</strong></p>
-  
   <div data-view-component="true" class="Layout-main">      
     <p dir="auto"></p>
       <code>
@@ -75,9 +70,7 @@
       </code>
   </div>
 </div>
-  
 <h2></h2>
-
 <a href="https://www.linkedin.com/in/acd-kohler/" rel="nofollow">
   <code>
     <img alt="My linkedin" 
@@ -87,6 +80,7 @@
          width="28">
   </code>
 </a>
+-->
 <!--
 **Anck8/Anck8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
