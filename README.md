@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <a>
   <img src="https://slackmojis.com/emojis/9339-brazil/download" 
